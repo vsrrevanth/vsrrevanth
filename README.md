@@ -26,7 +26,7 @@ SAN      → SRE (Site Reliability Enthusiast)
 
 ## 📫 Let’s Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/revanth-varanasi/)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&style=for-the-badge&logoColor=white)](https://github.com/vsrrevanth)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge&logoColor=white)](mailto:revanthvaranasi2097@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web)](https://wip-bebacksoon.dev)
+[![LinkedIn]](https://www.linkedin.com/in/revanth-varanasi/)  
+[![GitHub]](https://github.com/vsrrevanth)  
+[![Email]](mailto:revanthvaranasi2097@gmail.com)  
+[![Portfolio]](https://wip-bebacksoon.dev)
