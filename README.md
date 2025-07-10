@@ -8,7 +8,6 @@
 
 ## 🧭 My DNS Identity
 
-```txt
 A-record → Platform Engineer  
 CNAME    → Senior DevOps Engineer  
 SAN      → SRE (Site Reliability Enthusiast)
