@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Revanth Varanasi
 
 🚀 7+ years in DevOps | Platform Engineer | Exploring AI in DevOps  
-🧠 K8s • Cloud (Azure/AWS) • CI/CD • GitOps  • AWS Solutions Architect Associate
+🧠 K8s • Cloud (Azure/AWS) • CI/CD • GitOps  • AWS Solutions Architect Associate 
 🤝 I love to collaborate and build smart, resilient DevOps tools!
 
 ## 🧭 My DNS Identity
